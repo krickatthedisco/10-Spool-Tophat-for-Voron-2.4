@@ -6,8 +6,17 @@ This repo contains the model files, BOM, and everything else related to the desi
 
 ** Fusion files to be added, this project is still in development. 
 To-do: 
+
+
+
 Add fusion files
+
+
+
 Everything related to the optional bottom panel and heating
+
+
+
 Bowden support? May need an additional extrusion between the two rows of spools
 
 <img width="3739" height="1524" alt="image" src="https://github.com/user-attachments/assets/d82a6cda-965b-4051-87f0-db97f0d43593" />
