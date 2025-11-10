@@ -23,3 +23,20 @@ Bowden support? May need an additional extrusion between the two rows of spools
 BOM: https://docs.google.com/spreadsheets/d/1bkKnmu6Y5YQMKTWtyxwqEnmTFSpr5iOI21mws95jtqQ/edit?usp=sharing
 
 
+CERN Open Hardware Licence Version 2 - Permissive
+
+Copyright (c) 2025, Tyler Krick
+
+This source describes Open Hardware and is licensed under the CERN-OHL-P v2.
+
+You may redistribute and modify this documentation and make products using it
+under the terms of the CERN-OHL-P v2 (https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2).
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN-OHL-P v2 for applicable conditions.
+
+Source Location: https://github.com/[your-username]/[your-repo-name]
+
+As per CERN-OHL-P v2, should you produce hardware based on this documentation,
+you must provide a copy of the license text and keep notices of authorship and
+attribution intact.
