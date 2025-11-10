@@ -13,13 +13,7 @@ This project is still in development, but I am releasing the fusion file publicl
 To-do: 
 
 
-
-Add fusion files
-
-
-
-Everything related to the optional bottom panel and heating
-
+Active heating
 
 
 Bowden support? May need an additional extrusion between the two rows of spools
