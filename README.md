@@ -1,8 +1,6 @@
 # 10-Spool-Tophat-for-Voron-2.4
 This repo contains the model files, BOM, and everything else related to the design and implementation of a top hat for Voron 2.4 (and other printers) to support the Bondtech INDX
-
-<img width="2108" height="1620" alt="image" src="https://github.com/user-attachments/assets/39b784b3-62c1-434d-8e3a-0797448acf04" />
-
+<img width="2217" height="1536" alt="image" src="https://github.com/user-attachments/assets/598b0a75-0129-4ffc-b192-00cd4200f275" />
 
 
 ** Fusion files to be added, this project is still in development. 
