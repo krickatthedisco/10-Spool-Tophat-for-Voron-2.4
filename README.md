@@ -35,7 +35,7 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
 INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-P v2 for applicable conditions.
 
-Source Location: https://github.com/[your-username]/[your-repo-name]
+Source Location: https://github.com/krickatthedisco/10-Spool-Tophat-for-Voron-2.4/tree/main
 
 As per CERN-OHL-P v2, should you produce hardware based on this documentation,
 you must provide a copy of the license text and keep notices of authorship and
