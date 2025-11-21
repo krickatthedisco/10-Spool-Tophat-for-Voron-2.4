@@ -5,7 +5,7 @@ This repo contains the model files, BOM, and everything else related to the desi
 
 Alpha Release:
 
-***bottom panel design is incorrect, do not use, new version to be uploaded asap***
+***Updated Panels, got mine in and the bottom one was a little tight and required slight modification for the joining plates. If you ordered the panels before this update, carefully use a dremel to remove the small piece enclosing each joining plate opening.***
 
 This project is still in development, but I am releasing the fusion file publicly if anyone would like to contribute or fork it for other printers. Enjoy!
 
