@@ -9,7 +9,7 @@ Alpha Release:
 
 This project is still in development, but I am releasing the fusion file publicly if anyone would like to contribute or fork it for other printers. Enjoy!
 
-
+Use code:TOPHAT for 5% off your extrusions at Zyltech.com 
 
 To-do: 
 
